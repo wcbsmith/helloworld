@@ -1,2 +1,2 @@
 # helloworld
-First Repository
+This repository is for storing public files.
